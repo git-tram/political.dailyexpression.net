@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-subtitle: Why you'd want to go on a date with me
 ---
 
 This blog will be my medium for expressing myself and trying to find reason in these expressions. I will not set goals for this blog but I will try to be consistent in posting.
