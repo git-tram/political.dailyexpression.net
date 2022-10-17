@@ -54,7 +54,7 @@ a:focus {
   color: {{ site.hover-col | default: "#0085A1" }};
 }
 blockquote {
-  color: #130807;
+  color: #f8eeec;
   font-style: italic;
 }
 blockquote p:first-child {
@@ -485,7 +485,7 @@ footer .footer-custom-content {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
-  color: #130807;
+  color: #f8eeec;
   font-size: 1.125rem;
   font-style: italic;
   margin: 0 0 0.625rem;
