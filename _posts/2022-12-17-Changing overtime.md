@@ -1,5 +1,5 @@
 ---
-title: Changing overtime
+title: Changing Overtime
 layout: post
 tags:
     - Philosophy
