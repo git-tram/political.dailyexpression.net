@@ -131,7 +131,7 @@ navbar-border-col: "#000000"
 page-col: "#C46658"
 text-col: "#FFFFFF"
 link-col: "#FFFFFF"
-hover-col: "#FFFFFF"
+hover-col: "#58b6c4"
 footer-col: "#C46658"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#FFFFFF"
@@ -140,7 +140,7 @@ footer-hover-col: "#FFFFFF"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
+navbar-img: "/assets/img/favicon.png"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
@@ -247,7 +247,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "Perth/Australia"
+timezone: "Australia/Perth"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
