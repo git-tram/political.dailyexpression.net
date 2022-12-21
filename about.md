@@ -10,6 +10,6 @@ In due course, I will be able to improve my writing and understanding of my thou
 Thank you for reading.
 
 <style>
-p {text-align: left;}
+p {text-align: center;}
 </style>  
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
