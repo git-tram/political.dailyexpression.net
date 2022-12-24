@@ -39,7 +39,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: "/assets/img/favicon.png"
+title-img: "/assets/img/logolight.png"
 
 
 #####################################
@@ -125,14 +125,14 @@ keywords: "philosohy, expressions, psychology, anxiety, thinking, unconscious, p
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#3a1e1a"
+navbar-col: "#2D412A"
 navbar-text-col: "#FFFFFF"
 navbar-border-col: "#000000"
-page-col: "#3a1e1a"
+page-col: "#2D412A"
 text-col: "#FFFFFF"
 link-col: "#FFFFFF"
-hover-col: "#edd1cc"
-footer-col: "#3a1e1a"
+hover-col: "#abb3a9"
+footer-col: "#2D412A"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#FFFFFF"
 footer-hover-col: "#FFFFFF"
@@ -190,7 +190,7 @@ footer-hover-col: "#FFFFFF"
 #fb_comment_id: ""
 
 # To use CommentBox, sign up for a Project ID on https://commentbox.io
-#commentbox: "" # Project ID, e.g. "5694267682979840-proj"
+commentbox: "5753305565233152-proj" # Project ID, e.g. "5694267682979840-proj"
 
 # To use Utterances comments: (0) uncomment the following section, (1) fill in
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,

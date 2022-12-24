@@ -1,7 +1,10 @@
 {% if site.commentbox %}
-
+    <br>
     <div class="commentbox"></div>
     <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
-    <script>commentBox('{{ site.commentbox }}')</script>
+    <script>commentBox('{{ site.commentbox }}', {
+        textColor: '#fff',
+        subtextColor: '#c0c6bf',
+    })</script>
 
 {% endif %}
