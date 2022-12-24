@@ -833,7 +833,6 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 .pagination {
   margin: 0.625rem 0 0;
   justify-content: space-between;
-  width: 730px;
   height: 34.7px;
   margin-bottom: 0.2rem;
 }
@@ -843,7 +842,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 
 .pagination .page-item.next {
-  margin-left: auto;
+  margin-left: 0;
 }
 
 @media (min-width: 768px) {
