@@ -84,12 +84,12 @@ hr.small {
 ::-moz-selection {
   color: #fff;
   text-shadow: none;
-  background-color:	#abb3a9
+  background-color:	#cdd0d2
 }
 ::selection {
   color: #fff;
   text-shadow: none;
-  background-color:#abb3a9;
+  background-color:#cdd0d2;
 }
 img::selection {
   color: ;
@@ -510,7 +510,7 @@ footer .footer-custom-content {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
-  color: #c0c6bf;
+  color: #e5eaf1;
   font-size: 1.125rem;
   font-style: italic;
   margin: 0 0 0.625rem;
@@ -623,7 +623,7 @@ footer .footer-custom-content {
 }
 
 .blog-tags a {
-  color: 	#96a094;
+  color: 	#808792;
   text-decoration: none;
   text-align: left;
   line-height: 1.5;
@@ -652,8 +652,8 @@ footer .footer-custom-content {
 
 .tag-btn {
   margin: 0.3125rem;
-  background-color:	#2a2d41;
-  border-color:	#2a2d41;
+  background-color:	#44536a;
+  border-color:	#44536a;
 }
 
 
@@ -857,8 +857,8 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   font-size: 0.875rem;
   font-weight: 400;
   letter-spacing: 1px;
-  border: 2px #121a10;
-  background-color: #121a10;
+  border: 2px #0e1115;
+  background-color: #0e1115;
   border-radius: 100px;
   color: {{ site.text-col | default: "#FFFFFF" }};
 }
@@ -870,8 +870,8 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .pagination .page-item .page-link:hover,
 .pagination .page-item .page-link:focus {
-  color: #121a10;
-  border: 0px solid #121a10;
+  color: #0e1115;
+  border: 0px solid #0e1115;
   padding: 0.5375rem 1.1625rem;
   height: 34.7px;
   min-height: max-content;

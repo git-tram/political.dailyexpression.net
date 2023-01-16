@@ -3,9 +3,7 @@ layout: page
 title: About
 ---
 
-This blog will be my medium for expressing myself and trying to find reason in these expressions. I will not set goals for this blog but I will try to be consistent in posting.
-
-In due course, I will be able to improve my writing and understanding of my thoughts.
+This blog will be my medium for expressing, evaulating, and checking my political beliefs 
 
 Thank you for reading.
 

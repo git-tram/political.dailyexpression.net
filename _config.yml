@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: DailyExpressions
+title: Political DailyExpressions
 
 # Your name to show in the footer
 #author: Trent
@@ -20,6 +20,8 @@ title: DailyExpressions
 ###############################################
 
 navbar-links:
+  Home: "/"
+  Philosophy: "https://dailyexpressions.net"
   About: "about"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -39,7 +41,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/logolight.png"
+title-img: "/assets/img/favicon.png"
 
 
 #####################################
@@ -94,7 +96,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "dailyexpressions.net"
+url-pretty: "political.dailyexpressions.net"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -117,7 +119,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "philosohy, expressions, psychology, anxiety, thinking, unconscious, personality"
+keywords: "philosohy, expressions, politics"
 
 ######################################
 # --- Colours / background image --- #
@@ -125,14 +127,14 @@ keywords: "philosohy, expressions, psychology, anxiety, thinking, unconscious, p
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#2D412A"
+navbar-col: "#293240"
 navbar-text-col: "#FFFFFF"
 navbar-border-col: "#000000"
-page-col: "#2D412A"
+page-col: "#293240"
 text-col: "#FFFFFF"
 link-col: "#FFFFFF"
-hover-col: "#abb3a9"
-footer-col: "#2D412A"
+hover-col: "#cdd0d2"
+footer-col: "#293240"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#FFFFFF"
 footer-hover-col: "#FFFFFF"
